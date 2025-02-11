@@ -1,4 +1,4 @@
-# Notes-on-Principles--of-Synoptic--Meteorology
+# Notes-on-Principles-of-Synoptic-Meteorology
 # 天气学原理 课程学习笔记
 NUIST 天气学原理 课程学习笔记
 <p>声明：
